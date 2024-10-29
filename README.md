@@ -2,6 +2,16 @@
 
 **CodeX App** is a comprehensive platform that streamlines coding practice and enhances the coding experience. Built with the MERN stack (MongoDB, Express, React, Node.js), CodeX App integrates popular coding platforms like LeetCode and GeeksforGeeks, offering real-time contest tracking, problem-solving practice, and a dynamic user interface designed to cater to coding enthusiasts.  
 
+## Table of Contents
+- [Features](#features)
+- [Technology Stack](#technology-stack)
+- [Installation](#installation)
+- [Environment Variables](#environment-variables)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Future Enhancements](#future-enhancements)
+- [Contributing](#contributing)
+
 ## Demo
 - You can check out the live demo of the Codex App [here](https://drive.google.com/file/d/1bIz0BU78zMKFTDCSmmYmvqWecaQT_oJ3/view).
 
@@ -15,25 +25,23 @@
 - **Chatbot Assistance**: Provides assistance for common queries within the app, utilizing an OpenAI-powered chatbot.
 
 
-## Technologies Used
-
-- **Frontend**: React Native, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+## Technology Stack
+- **Frontend:**  React Native, HTML, CSS, JavaScript, Bootstrap
+- **Backend:** [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/)
+- **Database:** [MongoDB](https://www.mongodb.com/)
 - **External APIs**: LeetCode API, GeeksforGeeks API, CodeChef API, OpenAI API
 - **Authentication**: JSON Web Tokens (JWT)
 
+## Installation
 
-## Prerequisites
+### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- Node.js and npm installed
-- MongoDB installed and running, or use a MongoDB cloud service like MongoDB Atlas
+- [Node.js](https://nodejs.org/) and npm
+- [MongoDB](https://www.mongodb.com/) installed and running, or use a MongoDB cloud service like MongoDB Atlas
 - Access to API keys for LeetCode, GeeksforGeeks, and OpenAI (store these securely in your `.env` file)
 
-
-## Installation
 
 1. **Clone the Repository**
 
@@ -41,41 +49,48 @@ Before you begin, ensure you have met the following requirements:
    git clone https://github.com/21A91A05G9/CodeX-App.git
    cd CodeX-App
 
-2. **Set Up Environment Variables**
-Create a .env file in both the frontend and backend directories and add the necessary keys. Here’s an example:
-   ```bash
-    # .env file example for backend
-
+2. **Backent Setup:**
+- Navigate to the backend folder:
+  ```bash
+  cd Backend
+  
+- Install dependencies:
+  ```bash
+  npm install
+  
+- Set up environment variables as described below.
+  Create a `.env` file in both the backtend and add the following variables:
+    ```bash
     MONGODB_URI=your-mongodb-uri
     JWT_SECRET=your-jwt-secret
 
-    # .env file example for frontend
+3. **Frontend Setup:**
 
+- Navigate to the frontend folder:
+  ```bash
+  cd ../Frontend
+  
+- Set up the frontend environment variables as described below.
+  Create a `.env` file in both the frontend and add the following variables:
+    ```bash
     OPENAI_API_KEY=your-openai-api-key
     CLIST_API_URL=https://clist.by/api/v4/contest/
     CLIST_API_USERNAME=your_user_name
     CLIST_API_KEY=your_api_key_here
-   
-3. Install Dependencies
-Navigate to each directory (frontend and backend) and install the dependencies:
-    ```bash
-    # In frontend/
-    npm install
 
-    # In backend/
-    npm install
+4. **Start the App:**
+
+- Start the backend server:
+  ```bash
+  node app.js
   
-4. Run the App
-In separate terminal windows for the frontend and backend:
-
-    ```bash
-    # Run backend
-    cd backend
-    npm start
-
-    # Run frontend
-    cd frontend
-    npm start
+- Start the frontend server:
+  ```bash
+  expo start
+  
+- Install dependencies:
+   ```bash
+  npm install
     
 The backend will run on http://localhost:5000, and the frontend will run on http://localhost:3000 by default.
 
@@ -118,9 +133,17 @@ The backend will run on http://localhost:5000, and the frontend will run on http
 ## Contributing
 Contributions are welcome! Please follow these steps:
 
-- Fork the repository.
-- Create a new branch (git checkout -b feature/your-feature).
-- Commit your changes (git commit -m 'Add some feature').
-- Push to the branch (git push origin feature/your-feature).
-- Open a Pull Request.
-
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature-branch-name
+   
+3. Commit your changes:
+   ```bash
+   git commit -m 'Add some feature'
+   
+4. Push to the branch:
+   ```bash
+   git push origin feature-branch-name
+   
+5. Open a pull request.
