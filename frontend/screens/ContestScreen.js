@@ -9,7 +9,7 @@ const ContestList = () => {
     const fetchContests = async () => {
       try {
         // Fetch contests from the API
-        const response = await fetch('https://clist.by/api/v4/contest/?username=prudhvi_k&api_key=1e6592935ee5971b957483567fad26f3cd41da15');
+        const response = await fetch(`${process.env.CLIST_API_URL}?username=${process.env.CLIST_API_USERNAME}&api_key=${process.env.CLIST_API_KEY}`);
         const data = await response.json();
         // Filter contests for specific coding platforms
         const filteredContests = data.objects.filter(contest => {
