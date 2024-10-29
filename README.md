@@ -2,12 +2,8 @@
 
 **CodeX App** is a comprehensive platform that streamlines coding practice and enhances the coding experience. Built with the MERN stack (MongoDB, Express, React, Node.js), CodeX App integrates popular coding platforms like LeetCode and GeeksforGeeks, offering real-time contest tracking, problem-solving practice, and a dynamic user interface designed to cater to coding enthusiasts.  
 
-<div style="display: flex; overflow-x: auto;">
-    <img src="https://github.com/user-attachments/assets/af1ad116-756d-4587-a363-91ec0d5355e1" alt="Image 1" width="200" height="auto" style="margin-right: 10px;" />
-    <img src="https://github.com/user-attachments/assets/e718e429-1622-4053-83b2-9235555a2192" alt="Image 2" width="200" height="auto" style="margin-right: 10px;" />
-    <img src="https://github.com/user-attachments/assets/21265bd8-d9f3-4171-83da-a74932ca0e7e" alt="Image 3" width="200" height="auto" />
-</div>
-
+## Demo
+- You can check out the live demo of the Codex App [here](https://drive.google.com/file/d/1bIz0BU78zMKFTDCSmmYmvqWecaQT_oJ3/view).
 
 ## Features
 
@@ -88,36 +84,9 @@ The backend will run on http://localhost:5000, and the frontend will run on http
 ## Usage
 
 - **Register/Login**: Create an account or log in to access all features.
-
-<div style="display: flex; overflow-x: auto;">
-    <img src="https://github.com/user-attachments/assets/9835ccc3-32d2-4e22-88f7-096f6d32f3ff" alt="Register/Login" width="200" height="auto" style="margin-right: 10px;" />
-    <img src="https://github.com/user-attachments/assets/50bb43dd-ad7d-42c5-9f5f-8023f6213c6b" alt="Login Success" width="200" height="auto" style="margin-right: 10px;" />
-    <img src="https://github.com/user-attachments/assets/974581a6-7f2b-4629-b569-19afef84f4d2" alt="Forgot Password" width="200" height="auto" />
-</div>
-
 - **Home Page and Profile**: View your dashboard and manage your profile settings.
-
-<div style="display: flex; overflow-x: auto;">
-    <img src="https://github.com/user-attachments/assets/badf1070-57db-45e3-8459-4c868c3c6cc1" alt="Home Page" width="200" height="auto" style="margin-right: 10px;" />
-    <img src="https://github.com/user-attachments/assets/90dea2a9-b0a2-46e7-9dc8-25105886087b" alt="Dashboard" width="200" height="auto" style="margin-right: 10px;" />
-    <img src="https://github.com/user-attachments/assets/9c241259-3b71-4d5d-8766-b05662b73d0f" alt="Profile" width="200" height="auto" style="margin-right: 10px;" />
-    <img src="https://github.com/user-attachments/assets/e08faa31-2024-4b0b-9fc2-659994fb5ffe" alt="Edit Profile" width="200" height="auto" />
-</div>
-
 - **Contest Tracking**: View active contests and filter based on preferences.
-
-<div style="display: flex; overflow-x: auto;">
-    <img src="https://github.com/user-attachments/assets/e00727b8-4f9d-4841-8a28-5a10faecb4b0" alt="Contest Tracking" width="200" height="auto" />
-</div>
-
 - **Problem-Solving**: Select coding problems to solve from integrated platforms.
-
-<div style="display: flex; overflow-x: auto;">
-    <img src="https://github.com/user-attachments/assets/a3767fbd-bc4d-443a-a8cf-e39a7e28a656" alt="Problem Selection" width="200" height="auto" style="margin-right: 10px;" />
-    <img src="https://github.com/user-attachments/assets/53c91aee-1328-4409-b05f-fec75dc5fb79" alt="Problem Selection" width="200" height="auto" />
-</div>
-
-
 - **Chatbot Assistance**: Use the chatbot for help, accessible in the app’s UI.
 
 
