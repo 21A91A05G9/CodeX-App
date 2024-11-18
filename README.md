@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1f43c103-4006-46cb-b122-852dc182262a)# CodeX App
+# CodeX App
 
 **CodeX App** is a comprehensive platform that streamlines coding practice and enhances the coding experience. Built with the MERN stack (MongoDB, Express, React, Node.js), CodeX App integrates popular coding platforms like LeetCode and GeeksforGeeks, offering real-time contest tracking, problem-solving practice, and a dynamic user interface designed to cater to coding enthusiasts.  
 
