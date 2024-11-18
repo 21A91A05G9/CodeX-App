@@ -15,6 +15,7 @@
 ## Demo
 - You can check out the live demo of the Codex App [here](https://drive.google.com/file/d/1bIz0BU78zMKFTDCSmmYmvqWecaQT_oJ3/view).
 
+
 ## Features
 
 - **Integration with Coding Platforms**: Access problems from LeetCode, GeeksforGeeks, and other popular platforms to practice directly within the app.
@@ -99,6 +100,18 @@ The backend will run on http://localhost:5000, and the frontend will run on http
 ## Usage
 
 - **Register/Login**: Create an account or log in to access all features.
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/5c268d83-1482-4788-81e6-73d7e427a50e" width="100" height="100" alt="Image 1">
+  <img src="https://github.com/user-attachments/assets/7f085485-51c0-4437-ada2-1fcae20444ad" width="100" height="100" alt="Image 2">
+  <img src="https://github.com/user-attachments/assets/b386354e-a1d5-4a6a-b2ac-404553ad6536" width="100" height="100" alt="Image 3">
+  <img src="https://github.com/user-attachments/assets/7033ea33-1f1a-4d40-92ec-704fdef05554" width="100" height="100" alt="Image 4">
+</div>
+
+
+
+
+
+  
 - **Home Page and Profile**: View your dashboard and manage your profile settings.
 - **Contest Tracking**: View active contests and filter based on preferences.
 - **Problem-Solving**: Select coding problems to solve from integrated platforms.
