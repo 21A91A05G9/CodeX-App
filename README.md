@@ -127,9 +127,9 @@ The backend will run on http://localhost:5000, and the frontend will run on http
   
 - **Problem-Solving**: Select coding problems to solve from integrated platforms.
 
-   <div style="display: flex; justify-content: center; align-items: center; gap: 70px;">
-     <img src="https://github.com/user-attachments/assets/4d1d3c34-59cb-4edd-91cd-6ce2e4933aa4" height="450" alt="Image 1">
-     <img src="https://github.com/user-attachments/assets/39f165bc-15ac-4352-a268-9f7c30dc456b"  height="450" alt="Image 2">
+   <div style="display: flex; justify-content: center; align-items: center; gap: 250px;">
+     <img src="https://github.com/user-attachments/assets/4d1d3c34-59cb-4edd-91cd-6ce2e4933aa4" height="500" alt="Image 1">
+     <img src="https://github.com/user-attachments/assets/39f165bc-15ac-4352-a268-9f7c30dc456b"  height="500" alt="Image 2">
    </div>
    
 - **Chatbot Assistance**: Use the chatbot for help, accessible in the app’s UI.
