@@ -110,21 +110,21 @@ The backend will run on http://localhost:5000, and the frontend will run on http
   
 - **Home Page and Profile**: View your dashboard and manage your profile settings.
    <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
-     <img src="![image](https://github.com/user-attachments/assets/8d13eb2b-44c6-4433-97cd-18ebb1518b7a)" height="300" alt="Image 1">
-     <img src="![image](https://github.com/user-attachments/assets/625585b6-0a3e-4132-94e1-d57dcd53564c)"  height="300" alt="Image 3">
-     <img src="![image](https://github.com/user-attachments/assets/c62f6a31-a0aa-47e7-b0c0-75fbddf8b7f1)"  height="300" alt="Image 4">
-     <img src="![image](https://github.com/user-attachments/assets/7e0cbb68-86d3-46c6-af51-f5bab4951312)"  height="300" alt="Image 2">
+     <img src="https://github.com/user-attachments/assets/8d13eb2b-44c6-4433-97cd-18ebb1518b7a" height="300" alt="Image 1">
+     <img src="https://github.com/user-attachments/assets/625585b6-0a3e-4132-94e1-d57dcd53564c"  height="300" alt="Image 3">
+     <img src="https://github.com/user-attachments/assets/c62f6a31-a0aa-47e7-b0c0-75fbddf8b7f1"  height="300" alt="Image 4">
+     <img src="https://github.com/user-attachments/assets/7e0cbb68-86d3-46c6-af51-f5bab4951312"  height="300" alt="Image 2">
    </div>
   
 - **Contest Tracking**: View active contests and filter based on preferences.
    <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
-     <img src="![image](https://github.com/user-attachments/assets/78d8ba68-837d-45a4-bb55-3efc2286aa00)" height="300" alt="Image 1">
+     <img src="https://github.com/user-attachments/assets/78d8ba68-837d-45a4-bb55-3efc2286aa00" height="300" alt="Image 1">
    </div>
   
 - **Problem-Solving**: Select coding problems to solve from integrated platforms.
    <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
-     <img src="![image](https://github.com/user-attachments/assets/4d1d3c34-59cb-4edd-91cd-6ce2e4933aa4)" height="300" alt="Image 1">
-     <img src="![image](https://github.com/user-attachments/assets/39f165bc-15ac-4352-a268-9f7c30dc456b)"  height="300" alt="Image 1">
+     <img src="https://github.com/user-attachments/assets/4d1d3c34-59cb-4edd-91cd-6ce2e4933aa4" height="300" alt="Image 1">
+     <img src="https://github.com/user-attachments/assets/39f165bc-15ac-4352-a268-9f7c30dc456b"  height="300" alt="Image 1">
    </div>
    
 - **Chatbot Assistance**: Use the chatbot for help, accessible in the app’s UI.
