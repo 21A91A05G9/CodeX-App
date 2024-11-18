@@ -108,7 +108,7 @@ The backend will run on http://localhost:5000, and the frontend will run on http
      <img src="https://github.com/user-attachments/assets/7033ea33-1f1a-4d40-92ec-704fdef05554"  height="300" alt="Image 4">
    </div>
   
-- **Home Page and Profile**: View your dashboard and manage your profile settings.
+- **Home Page**: View your dashboard and manage your profile settings.
    <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
      <img src="https://github.com/user-attachments/assets/8d13eb2b-44c6-4433-97cd-18ebb1518b7a" height="300" alt="Image 1">
      <img src="https://github.com/user-attachments/assets/625585b6-0a3e-4132-94e1-d57dcd53564c"  height="300" alt="Image 3">
@@ -116,9 +116,11 @@ The backend will run on http://localhost:5000, and the frontend will run on http
      <img src="https://github.com/user-attachments/assets/7e0cbb68-86d3-46c6-af51-f5bab4951312"  height="300" alt="Image 2">
    </div>
   
-- **Contest Tracking**: View active contests and filter based on preferences.
+- **Contest Tracking and Profile**: View active contests and filter based on preferences.
    <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
      <img src="https://github.com/user-attachments/assets/78d8ba68-837d-45a4-bb55-3efc2286aa00" height="300" alt="Image 1">
+     <img src="https://github.com/user-attachments/assets/ede92320-5703-4a17-8b04-5ee53577d964" height="300" alt="Image 1">
+     <img src="https://github.com/user-attachments/assets/c29e85a3-1afc-4437-a1b9-40152f254737" height="300" alt="Image 1">
    </div>
   
 - **Problem-Solving**: Select coding problems to solve from integrated platforms.
